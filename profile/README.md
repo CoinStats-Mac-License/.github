@@ -22,7 +22,7 @@
 ---  
 
 <div align="center">  
-  <img src="https://machow2.com/wp-content/uploads/2025/05/coinstats-1024x619.png" width="1080" alt="CoinStats Screenshot"/>  
+  <img src="https://lh7-us.googleusercontent.com/jiIeW-dfBXZ-Ejn7JgJQyjGYfzbzqiz7xy9t9JeddhC26WuHYI8DaOVQ_qVpQi0EbL6saLEDjXcZ1t1sv1r6O_YjFs8QEEWgL0292CeefQhOPku_QAeivK4Kvvo7SVBDQXIC7PLfXji8w_-bdloWiB0" width="1080" alt="CoinStats Screenshot"/>  
 </div>  
 
 <br>  
